@@ -1,6 +1,7 @@
 table{ background-color:#D3D3D3;
-  border-collapse: collapse;}
-h1{font-size:60px}
+  border-collapse: collapse;
+margin: 0 auto}
+h1{font-size:60px;text-align:center}
  table, th, td
   {
   	border: solid black;
