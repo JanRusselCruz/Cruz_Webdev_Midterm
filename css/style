@@ -1,0 +1,17 @@
+table{ background-color:#D3D3D3;
+  border-collapse: collapse;}
+h1{font-size:60px}
+ table, th, td
+  {
+  	border: solid black;
+    table-layout: fixed;
+    width: 150px;
+    height: 50px;
+  }
+#sun{color:red;font-size:x-large}
+th {color:#000080;font-size:x-large}
+td{font-weight:bold;
+  font-size:large;
+  text-align:center;
+  color:#000080}
+#one, #eight, #fifteen, #twotwo, #twonine{text-align:center;color:red}
